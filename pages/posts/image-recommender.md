@@ -2,7 +2,7 @@
 title: Image Recommender
 date: 2023/9/17
 description: A big data project using transfer learning method to output a recommended image based on the similarity of characteristics
-tag: big data
+tag: big data, python
 author: Adham Arif
 ---
 
@@ -19,7 +19,7 @@ Since images are large vectors with 3 colour channels, it requires high computat
 
 
 ## Image Preprocessing
-- Preprocess the imageusing **opencv** to get the colour histogram of every pixel in the images. 
+- Preprocess the image using **opencv** to get the colour histogram of every pixel in the images. 
 - Use a transfer learning model such as **MobileNet** to get the image embeddings.
 - Save the information including the image path in **SQLite** database and **.csv** file as a backup. 
 
