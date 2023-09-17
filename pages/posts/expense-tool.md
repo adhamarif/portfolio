@@ -9,7 +9,7 @@ author: Adham Arif
 # Financial tracker
 A financial tool to analyse and visualize expenses.
 
-🔗 [Link to GitHub repository](https://github.com/adhamarif/ImageRecommender)
+🔗 [Link to GitHub repository](https://github.com/till-teb/expenses-management-tool)
 
 ## Libraries used
 
@@ -28,7 +28,7 @@ A financial tool to analyse and visualize expenses.
 ## Results
 
 *Cashflow overview*
-![Graph photo](../../public/images/overview-1.png)
+![Graph photo](/../../public/images/overview-1.png)
 
 *Credit history overview*
 ![Graph photo](../../public/images/overview-2.png)
