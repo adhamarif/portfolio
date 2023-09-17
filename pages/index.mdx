@@ -3,11 +3,18 @@ type: page
 title: About
 date: 2023-09-16
 ---
-<img src="../public/images/clean_pic.png" alt="Alt Text" width="150" height="150" />
-
 # Data Science & AI Portfolio
 
-<img src="../public/images/clean_pic.png" alt="Alt Text" width="150" height="150" />
+import Image from 'next/image'
+
+<Image
+  src="/images/clean_pic.png"
+  alt="Photo"
+  width={150}
+  height={150}
+  priority
+  className="next-image"
+/>
 
 Welcome to my portfolio website! I'm Adham Arif, a student pursuing a Bachelor's degree in Data Science, 
 AI & Intelligent Systems (DAISY) at Düsseldorf University of Applied Science [(**HSD**)](https://medien.hs-duesseldorf.de/studium/studiengaenge/bdaisy/Seiten/bdaisy_en.aspx).
