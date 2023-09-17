@@ -17,6 +17,8 @@ Since images are large vectors with 3 colour channels, it requires high computat
 **Code design**:
 ![image](https://github.com/adhamarif/ImageRecommender/assets/92054450/ec9bfac5-abaf-499a-964e-86d6bf0f8d8d)
 
+## Datasets
+This project used images datasets from [Coco](https://cocodataset.org/#home) dataset.
 
 ## Image Preprocessing
 - Preprocess the image using **opencv** to get the colour histogram of every pixel in the images. 
