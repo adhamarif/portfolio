@@ -31,10 +31,10 @@ A financial tool to analyse and visualize expenses.
 ![Graph photo](https://github.com/adhamarif/portfolio/blob/main/public/images/overview-1.png?raw=true)
 
 *Credit history overview*
-![Graph photo](../../public/images/overview-2.png)
+![Graph photo](https://github.com/adhamarif/portfolio/blob/main/public/images/overview-2.png?raw=true)
 
 *Expense by category*
-![Graph photo](../../public/images/overview-3.png)
+![Graph photo](https://github.com/adhamarif/portfolio/blob/main/public/images/overview-3.png?raw=true)
 
 ## Conclusion
 
