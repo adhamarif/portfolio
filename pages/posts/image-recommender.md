@@ -2,11 +2,11 @@
 title: Image Recommender
 date: 2023/9/17
 description: A big data project using transfer learning method to output a recommended image based on the similarity of characteristics
-tags: big data, transfer learning
+tag: big data
 author: Adham Arif
 ---
 
-# ImageRecommender
+# Image Recommender
 A big data project using transfer learning method to output a recommended image based on the similarity of characteristics
 
 🔗 [Link to GitHub repository](https://github.com/adhamarif/ImageRecommender)
