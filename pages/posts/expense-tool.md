@@ -28,7 +28,7 @@ A financial tool to analyse and visualize expenses.
 ## Results
 
 *Cashflow overview*
-![Graph photo](/../../public/images/overview-1.png)
+![Graph photo](https://github.com/adhamarif/portfolio/blob/main/public/images/overview-1.png?raw=true)
 
 *Credit history overview*
 ![Graph photo](../../public/images/overview-2.png)
